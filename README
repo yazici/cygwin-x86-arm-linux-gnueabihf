@@ -1,0 +1,8 @@
+This is a cygwin x86 arm little-endian gnueabihf gcc toolchain I use to compile
+apps & kernel builds for Raspberry PI (for both B+ and B2).
+
+The toolchain was build by awesome `buildroot' tool:
+https://buildroot.org/
+The enclosed `.config' file contains configuration for the toolchain build.
+
+Enjoy
